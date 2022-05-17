@@ -1,2 +1,2 @@
 # hello-world
-Hello world. my first code.
+This is a test repository for WeixyAB'S video.
